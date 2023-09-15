@@ -1,0 +1,11 @@
+TransactionDate,CustomerName,ProductName,Quantity,UnitPrice,TotalPrice
+2023-09-15,John Doe,Desk Chair,2,89.99,179.98
+2023-09-15,Alice Smith,Computer Monitor,1,199.99,199.99
+2023-09-16,Bob Johnson,Office Desk,1,249.99,249.99
+2023-09-16,Sarah Brown,Printer,3,129.99,389.97
+2023-09-17,Emily Davis,File Cabinet,2,79.99,159.98
+2023-09-17,Michael Wilson,Office Chair,1,149.99,149.99
+2023-09-18,Lisa Jones,Keyboard,4,29.99,119.96
+2023-09-18,David Lee,Mouse,5,14.99,74.95
+2023-09-19,Karen White,Laptop,2,699.99,1399.98
+2023-09-19,James Miller,Desk Lamp,3,19.99,59.97
