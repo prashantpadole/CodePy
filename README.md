@@ -1,1 +1,1 @@
-# CodePyWizard
+# CodePy
